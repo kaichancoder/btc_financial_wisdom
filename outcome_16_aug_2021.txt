@@ -1,0 +1,120 @@
+Starting Portfolio Value: 100,000.0
+BUY EXECUTED, 2016-11-19 Price: 753.91, Size: 131.30 BTC, Cost: 98992.12, Comm: 0.00, Port Val: 99867.38
+SELL EXECUTED, 2016-11-28 Price: 724.99, Original Price: 98992.12, Comm: 0.00
+2016-11-28 OPERATION PROFIT, GROSS -3797.34, NET -3797.34
+-------------------------------------------------
+
+BUY EXECUTED, 2016-12-03 Price: 774.87, Size: 122.91 BTC, Cost: 95239.40, Comm: 0.00, Port Val: 95046.08
+SELL EXECUTED, 2017-01-12 Price: 779.54, Original Price: 95239.40, Comm: 0.00
+2017-01-12 OPERATION PROFIT, GROSS 573.99, NET 573.99
+-------------------------------------------------
+
+BUY EXECUTED, 2017-01-22 Price: 924.30, Size: 103.69 BTC, Cost: 95837.92, Comm: 0.00, Port Val: 96716.51
+SELL EXECUTED, 2017-03-11 Price: 1113.00, Original Price: 95837.92, Comm: 0.00
+2017-03-11 OPERATION PROFIT, GROSS 19565.74, NET 19565.74
+-------------------------------------------------
+
+BUY EXECUTED, 2017-04-01 Price: 1081.30, Size: 106.50 BTC, Cost: 115157.67, Comm: 0.00, Port Val: 117641.68
+SELL EXECUTED, 2017-06-15 Price: 2393.30, Original Price: 115157.67, Comm: 0.00
+2017-06-15 OPERATION PROFIT, GROSS 139727.05, NET 139727.05
+-------------------------------------------------
+
+BUY EXECUTED, 2017-07-21 Price: 2874.40, Size: 88.48 BTC, Cost: 254331.63, Comm: 0.00, Port Val: 237010.50
+SELL EXECUTED, 2017-09-05 Price: 4207.50, Original Price: 254331.63, Comm: 0.00
+2017-09-05 OPERATION PROFIT, GROSS 117954.88, NET 117954.88
+-------------------------------------------------
+
+BUY EXECUTED, 2017-09-28 Price: 4207.50, Size: 87.96 BTC, Cost: 370090.57, Comm: 0.00, Port Val: 372485.03
+SELL EXECUTED, 2017-11-12 Price: 6299.00, Original Price: 370090.57, Comm: 0.00
+2017-11-12 OPERATION PROFIT, GROSS 183967.78, NET 183967.78
+-------------------------------------------------
+
+BUY EXECUTED, 2017-11-18 Price: 7674.10, Size: 71.97 BTC, Cost: 552282.64, Comm: 0.00, Port Val: 565131.23
+SELL EXECUTED, 2017-12-23 Price: 13173.00, Original Price: 552282.64, Comm: 0.00
+2017-12-23 OPERATION PROFIT, GROSS 395739.82, NET 395739.82
+-------------------------------------------------
+
+BUY EXECUTED, 2018-01-07 Price: 17165.00, Size: 54.99 BTC, Cost: 943974.63, Comm: 0.00, Port Val: 901507.12
+SELL EXECUTED, 2018-01-12 Price: 13253.00, Original Price: 943974.63, Comm: 0.00
+2018-01-12 OPERATION PROFIT, GROSS -215137.12, NET -215137.12
+-------------------------------------------------
+
+BUY EXECUTED, 2018-01-29 Price: 11835.00, Size: 61.82 BTC, Cost: 731641.59, Comm: 0.00, Port Val: 700440.49
+SELL EXECUTED, 2018-02-02 Price: 9181.00, Original Price: 731641.59, Comm: 0.00
+2018-02-02 OPERATION PROFIT, GROSS -164070.70, NET -164070.70
+-------------------------------------------------
+
+BUY EXECUTED, 2018-10-17 Price: 6754.20, Size: 84.21 BTC, Cost: 568778.85, Comm: 0.00, Port Val: 572991.45
+SELL EXECUTED, 2018-10-30 Price: 6346.57, Original Price: 568778.85, Comm: 0.00
+2018-10-30 OPERATION PROFIT, GROSS -34326.93, NET -34326.93
+-------------------------------------------------
+
+BUY EXECUTED, 2018-11-07 Price: 6520.10, Size: 82.00 BTC, Cost: 534623.00, Comm: 0.00, Port Val: 544526.56
+SELL EXECUTED, 2018-11-17 Price: 5655.70, Original Price: 534623.00, Comm: 0.00
+2018-11-17 OPERATION PROFIT, GROSS -70877.46, NET -70877.46
+-------------------------------------------------
+
+BUY EXECUTED, 2019-03-17 Price: 4088.10, Size: 113.66 BTC, Cost: 464633.53, Comm: 0.00, Port Val: 467137.53
+SELL EXECUTED, 2019-03-26 Price: 3970.00, Original Price: 464633.53, Comm: 0.00
+2019-03-26 OPERATION PROFIT, GROSS -13422.67, NET -13422.67
+-------------------------------------------------
+
+BUY EXECUTED, 2019-03-30 Price: 4179.10, Size: 108.00 BTC, Cost: 451348.87, Comm: 0.00, Port Val: 454385.41
+SELL EXECUTED, 2019-06-05 Price: 7692.90, Original Price: 451348.87, Comm: 0.00
+2019-06-05 OPERATION PROFIT, GROSS 379495.50, NET 379495.50
+-------------------------------------------------
+
+BUY EXECUTED, 2019-06-16 Price: 8856.00, Size: 93.39 BTC, Cost: 827038.61, Comm: 0.00, Port Val: 847523.56
+SELL EXECUTED, 2019-07-17 Price: 9420.00, Original Price: 827038.61, Comm: 0.00
+2019-07-17 OPERATION PROFIT, GROSS 52670.48, NET 52670.48
+-------------------------------------------------
+
+BUY EXECUTED, 2019-08-03 Price: 10519.00, Size: 83.57 BTC, Cost: 879098.81, Comm: 0.00, Port Val: 913385.47
+SELL EXECUTED, 2019-08-29 Price: 9727.60, Original Price: 879098.81, Comm: 0.00
+2019-08-29 OPERATION PROFIT, GROSS -66139.25, NET -66139.25
+-------------------------------------------------
+
+BUY EXECUTED, 2020-02-06 Price: 9612.10, Size: 84.66 BTC, Cost: 813712.99, Comm: 0.00, Port Val: 833165.96
+SELL EXECUTED, 2020-02-18 Price: 9712.00, Original Price: 813712.99, Comm: 0.00
+2020-02-18 OPERATION PROFIT, GROSS 8457.04, NET 8457.04
+-------------------------------------------------
+
+BUY EXECUTED, 2020-06-02 Price: 10225.98, Size: 80.39 BTC, Cost: 822077.00, Comm: 0.00, Port Val: 774186.82
+SELL EXECUTED, 2020-06-12 Price: 9277.90, Original Price: 822077.00, Comm: 0.00
+2020-06-12 OPERATION PROFIT, GROSS -76216.83, NET -76216.83
+-------------------------------------------------
+
+BUY EXECUTED, 2020-07-08 Price: 9267.58, Size: 80.56 BTC, Cost: 746627.21, Comm: 0.00, Port Val: 768619.02
+SELL EXECUTED, 2020-09-04 Price: 10166.14, Original Price: 746627.21, Comm: 0.00
+2020-09-04 OPERATION PROFIT, GROSS 72391.00, NET 72391.00
+-------------------------------------------------
+
+BUY EXECUTED, 2020-09-16 Price: 10797.99, Size: 75.79 BTC, Cost: 818364.73, Comm: 0.00, Port Val: 839685.92
+SELL EXECUTED, 2021-01-22 Price: 30890.61, Original Price: 818364.73, Comm: 0.00
+2021-01-22 OPERATION PROFIT, GROSS 1522791.07, NET 1522791.07
+-------------------------------------------------
+
+BUY EXECUTED, 2021-02-04 Price: 37667.00, Size: 61.75 BTC, Cost: 2325852.59, Comm: 0.00, Port Val: 2305168.52
+SELL EXECUTED, 2021-02-27 Price: 46270.00, Original Price: 2325852.59, Comm: 0.00
+2021-02-27 OPERATION PROFIT, GROSS 531215.91, NET 531215.91
+-------------------------------------------------
+
+BUY EXECUTED, 2021-03-10 Price: 54955.31, Size: 51.89 BTC, Cost: 2851756.35, Comm: 0.00, Port Val: 2933995.04
+SELL EXECUTED, 2021-03-22 Price: 57341.00, Original Price: 2851756.35, Comm: 0.00
+2021-03-22 OPERATION PROFIT, GROSS 123799.01, NET 123799.01
+-------------------------------------------------
+
+BUY EXECUTED, 2021-04-02 Price: 58731.00, Size: 50.65 BTC, Cost: 2974671.91, Comm: 0.00, Port Val: 3015908.97
+SELL EXECUTED, 2021-04-08 Price: 55962.00, Original Price: 2974671.91, Comm: 0.00
+2021-04-08 OPERATION PROFIT, GROSS -140247.34, NET -140247.34
+-------------------------------------------------
+
+BUY EXECUTED, 2021-04-12 Price: 60033.00, Size: 47.23 BTC, Cost: 2835519.73, Comm: 0.00, Port Val: 2856603.64
+SELL EXECUTED, 2021-04-25 Price: 50149.00, Original Price: 2835519.73, Comm: 0.00
+2021-04-25 OPERATION PROFIT, GROSS -466847.85, NET -466847.85
+-------------------------------------------------
+
+BnH Start:  100000.0
+BnH End: 6,651,855.0
+
+Final Portfolio Value: 2,397,266.0
